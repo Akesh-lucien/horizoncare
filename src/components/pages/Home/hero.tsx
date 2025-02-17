@@ -127,7 +127,7 @@ function HeroSection() {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 items-center space-y-0 space-x-0">
+          <div className="grid grid-cols-1 md:grid-cols-2 items-center space-y-4 md:space-y-0 space-x-0">
             <div className="col-span-1 md:max-w-[64%]">
               <FadingSlide delay={0.8}>
                 <SharedButton renderText="Explore Our Plans" />
